@@ -1,1 +1,2 @@
 API_KEY: jhc{${API_KEY}}
+API_KEY: ${API_KEY:jhc{DEFAULT}}
