@@ -1,1 +1,1 @@
-API_KEY: jhc{1_f0rg07_70_h1d3_7h15}
+API_KEY: ${API_KEY:jhc{DEFAULT}}
